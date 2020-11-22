@@ -1,2 +1,12 @@
-I'll be updating everything here as I progress but I really appreciate you taking the time to check out this guthub!
-If you're here with suggestions or bugs, go ahead and throw those straight into Issues. Thanks!
+If you've made it to this github, then you have my personal thanks for investing your time into helping me improve!
+I really appreciate any and all feedback, since it allows me to fix TONS of things I've missed.
+
+Suggestions or bugs? go ahead and throw those straight into Issues, even if it's positive feedback. Thanks!
+
+Obviously this is a VERY early demo, and everything is subject to change. I'll update this readme with things I plan on
+adding as I recieve feedback, or things that I already know are broken.
+
+1) I plan on adding a system to prevent the RASER from moving objects through walls, and preventing prop flying.
+2) A system of interchangable cores to change what the nailgun is capable of doing.
+3) Turrets and destructible props, potentially armed drones
+4) Visual overhauls for the weapons and more interesting levels
